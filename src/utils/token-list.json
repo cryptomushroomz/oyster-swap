@@ -1,6 +1,12 @@
 {
   "mainnet-beta": [
     {
+      "tokenSymbol": "SHROOMZ",
+      "mintAddress": "2vRgBSJEVPXxayrhXoazQyCKSGFYQG3ZdfT2Gv5gZykL",
+      "tokenName": "CryptoMushroomz",
+      "icon": "https://static.wixstatic.com/media/50530e_b109ae1bfc874455b25f701cd89126fa~mv2.png/v1/fill/w_52,h_49,al_c,q_85,usm_0.66_1.00_0.01/logo_purple1.webp"
+    },
+    {
       "tokenSymbol": "SOL",
       "mintAddress": "So11111111111111111111111111111111111111112",
       "tokenName": "Solana",
